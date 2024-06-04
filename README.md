@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malitha Prabhashana</h1>
-<h3 align="center">Electrical Engineering Undergraduate</h3>
+<h3 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Electrical Engineering Undergraduate"></a>
+</h3>
 
 - 📫 How to reach me **malithaprabhashana@gmail.com**
 
@@ -103,8 +105,10 @@
     <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/>
   </a>
 </p>
+<br />
+<b></b>
 
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malithaprabhashana&show_icons=true&locale=en&layout=compact" alt="malithaprabhashana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malithaprabhashana&show_icons=true&locale=en" alt="malithaprabhashana" /></p>
