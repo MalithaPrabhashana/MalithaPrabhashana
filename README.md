@@ -15,8 +15,9 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
-<p align="center">
+<p align="left">
   - **Languages**:
+  <br />
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -52,8 +53,9 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   - **Framework**:
+  <br />
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
@@ -77,8 +79,9 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   - **Tools**:
+  <br />
   <a href="https://code.visualstudio.com/docs/editor/vscode-web" target="_blank" rel="noreferrer">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="Visual Studio Code" width="40" height="40"/>
   </a>
