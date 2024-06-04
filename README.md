@@ -66,7 +66,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmLME0hpAJOqBGhaVjcgkk8hIKS3S4GAqrLg&s" alt="jquery" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -79,7 +79,7 @@
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="Visual Studio Code" width="40" height="40"/>
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandslogos.com%2Fi%2Fintellij-idea-logo%2F&psig=AOvVaw21M_0MfaSDND1K4RVecG9t&ust=1717562014685000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOD905-PwYYDFQAAAAAdAAAAABAE" alt="IntelliJ IDEA" width="40" height="40"/>
+    <img src="https://brandslogos.com/wp-content/uploads/thumbs/intellij-idea-logo-vector.svg" alt="IntelliJ IDEA" width="40" height="40"/>
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
@@ -92,9 +92,6 @@
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
