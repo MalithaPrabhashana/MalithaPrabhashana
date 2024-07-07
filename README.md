@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **malithaprabhashana@gmail.com**
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=MalithaPrabhashana&label=Profile%20views&color=0e75b6&style=flat" alt="MalithaPrabhashana  /></p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/malitha-prabhashana-808133224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malitha-prabhashana-808133224" height="30" width="40" /></a>
