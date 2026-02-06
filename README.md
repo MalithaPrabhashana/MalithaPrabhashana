@@ -28,11 +28,11 @@ I enjoy building practical systems, learning modern frameworks, and exploring ho
 ### 💻 Programming Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+  <img src="https://www.jaseci.org/_next/image?url=%2Fimages%2Flogo.png&w=128&q=75" width="42" alt="Jaclang"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42"/>
-  <img src="https://avatars.githubusercontent.com/u/145202541?s=200&v=4" width="42" alt="Jaclang"/>
 </p>
 
 ---
