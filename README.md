@@ -80,12 +80,3 @@ I enjoy building practical systems, learning modern frameworks, and exploring ho
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="42"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="42"/>
 </p>
-
----
-
-## 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malithaprabhashana&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malithaprabhashana&layout=compact&hide_border=true" height="165"/>
-</p>
