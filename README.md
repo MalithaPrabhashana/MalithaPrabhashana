@@ -6,12 +6,6 @@
 - **Added Jac to [GitHub Linguist](https://github.com/github-linguist/linguist/pull/7653)**, which is why `.jac` files get syntax highlighting on GitHub.
 - **Built much of the coding agent behind JacHammer**, from planning a build to checking the result in a real browser.
 
-### A few PRs I like
-
-- [jac#9069](https://github.com/jaseci-labs/jac/pull/9069): fixed a database write failure that only appeared under concurrent load
-- [jac#7999](https://github.com/jaseci-labs/jac/pull/7999): streamed LLM tool calls as they are written, so the UI shows progress live
-- [jac#8955](https://github.com/jaseci-labs/jac/pull/8955): fixed async streaming crashing for every model except the default
-
 ### Education
 
 B.Sc. Engineering, Electrical Engineering, University of Moratuwa
