@@ -4,7 +4,7 @@
 
 - **140+ merged PRs to [Jac](https://github.com/jaseci-labs/jac/pulls?q=is%3Apr+author%3AMalithaPrabhashana+is%3Amerged)** (900+ stars), mostly in byLLM, the part of Jac that calls LLMs.
 - **Added Jac to [GitHub Linguist](https://github.com/github-linguist/linguist/pull/7653)**, which is why `.jac` files get syntax highlighting on GitHub.
-- **Built much of the coding agent behind JacHammer**, which ran live hackathons in Kenya and Sri Lanka in 2026.
+- **Built much of the coding agent behind JacHammer**, from planning a build to checking the result in a real browser.
 
 ### A few PRs I like
 
