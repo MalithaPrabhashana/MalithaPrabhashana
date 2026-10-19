@@ -12,4 +12,4 @@ B.Sc. Engineering, Electrical Engineering, University of Moratuwa
 
 Jac · Python · TypeScript · React · Kubernetes · LLM agents
 
-[LinkedIn](https://linkedin.com/in/malitha-prabhashana-808133224) · malithaprabhashana@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/malitha-prabhashana-808133224) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:malithaprabhashana@gmail.com)
